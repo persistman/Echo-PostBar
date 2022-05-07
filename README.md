@@ -461,27 +461,3 @@ double score = Math.log10(Math.max(w, 1))
 ```
 
 ![](https://gitee.com/veal98/images/raw/master/img/20210208173636.png)
-
-
-## 🙋 微信交流群
-
-下方扫码关注公众号回复 `Echo`，里面有我的联系方式，备注 "Echo" 加我微信，我拉你进 Echo 微信交流群，实时跟进项目进度，第一时间获取教程更新，分享您的想法，还能帮您解决遇到的问题：
-
-<img width="220px" src="https://gitee.com/veal98/images/raw/master/img/20210204145531.png"  />
-
-## 👏 鸣谢
-
-博主水平有限，尚未拥有良好的架构能力，本项目大部参考[牛客网](https://www.nowcoder.com/)的付费 Java 高级工程师课程，在此感谢老师和平台。
-
-另外，若发现 Bug 或好的想法可以积极与我联系或提 PR / issue，采纳后您将出现在下方列表中。感谢以下小伙伴对本项目做出的贡献，排名按照时间先后：
-
-- [freedom_dh](https://gitee.com/dh_free)
-- [paulisusu](https://gitee.com/paulisusu)
-- [Max (Lyingfromyou)](https://gitee.com/Lyingfromyou)
-- [逆光影者 (cpfree) ](https://gitee.com/cpfree)
-
-> 🔗 友情链接（若您想要出现在这里，可以上方扫描微信二维码联系我）：
->
-> - [CS-Wiki](https://gitee.com/veal98/CS-Wiki)：致力打造完善的 Java 后端知识体系，不仅仅帮助各位小伙伴快速且系统的准备面试，更指引学习的方向
-> - [Furion](https://gitee.com/dotnetchina/Furion)：让 .NET 开发更简单，更通用，更流行 
-> - [Free-Fs](https://gitee.com/dh_free/free-fs)：Spring Boot 开源云文件管理系统，方便快捷的管理云存储的文件
