@@ -1,4 +1,4 @@
-# Echo — 开源社区系统
+# Echo — 开源贴吧系统
 
 ---
 
@@ -31,11 +31,8 @@
 
 ## 🔨 开发环境
 
-- 操作系统：Windows 10
 - 构建工具：Apache Maven
 - 集成开发工具：Intellij IDEA
-- 应用服务器：Apache Tomcat
-- 接口测试工具：Postman
 - 压力测试工具：Apache JMeter
 - 版本控制工具：Git
 - Java 版本：8
