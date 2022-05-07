@@ -189,9 +189,9 @@
 以下是我觉得本项目还可以添加的功能，同样欢迎各位小伙伴提 issue 指出还可以增加哪些功能，或者直接提 PR 实现该功能：
 
 - [x] 发帖支持 Markdown 格式
-- [x] 忘记密码（发送邮件找回密码）（Implemented by [逆光影者 (cpfree) ](https://gitee.com/cpfree)）
+- [x] 忘记密码（发送邮件找回密码）
 - [ ] 查询我的点赞
-- [x] 管理员对帖子的二次点击取消置顶功能（Partially Implement by [Max (Lyingfromyou)](https://gitee.com/Lyingfromyou)）
+- [x] 管理员对帖子的二次点击取消置顶功能
 - [ ] 管理员对已删除帖子的恢复功能（本项目中的删除帖子并未将其从数据库中删除，只是将其状态设置为了拉黑）
 - [ ] 定期自动发帖功能
 - [ ] 添加 Gitee/Github 账号登陆功能
