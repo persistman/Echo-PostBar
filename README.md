@@ -4,53 +4,6 @@
 
 <br>
 
-<p align="center">
-    <img width="" src="https://gitee.com/veal98/images/raw/master/img/20210211175136.png" >
-</p>
-
-<div align="center">
-
-
-[![star](https://gitee.com/veal98/Echo/badge/star.svg?theme=dark)](https://gitee.com/veal98/Echo/stargazers)
-[![fork](https://gitee.com/veal98/Echo/badge/fork.svg?theme=dark)](https://gitee.com/veal98/Echo/members)
-[![GitHub stars](https://img.shields.io/github/stars/Veal98/Echo?logo=github)](https://github.com/Veal98/Echo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Veal98/Echo?logo=github)](https://github.com/Veal98/Echo/network)
-[![version](https://img.shields.io/badge/version-2.1-brightgreen)]()
-
-<a href="#-微信交流群"><img src="https://img.shields.io/badge/交流-微信群-orange" alt="交流群"></a>
-<a href="#-配套教程"><img src="https://img.shields.io/badge/配套教程-公众号飞天小牛肉-blueviolet" alt="配套教程"></a>
-
-
-</div>
-
-> 云服务器到期了，暂时不准备续费，未上手的小伙伴可以看下面的界面展示了解本项目，所有代码在我本机上都是正常运行的，各位可以参考配套教程自己拉下去部署，并欢迎加群讨论技术问题。
-
-## 📚 项目简介
-
-Echo 是一套前后端不分离的开源社区系统，基于目前主流 Java Web 技术栈（SpringBoot + MyBatis + MySQL + Redis + Kafka + Elasticsearch + Spring Security + ...），并提供详细的开发文档和配套教程。包含帖子、评论、私信、系统通知、点赞、关注、搜索、用户设置、数据统计等模块。
-
-**源码链接**：已托管在 Github 和 Gitee：
-
-- Gitee：[https://gitee.com/veal98/Echo](https://gitee.com/veal98/Echo)（Gitee 官方推荐项目）
-- Github：[https://github.com/Veal98/Echo](https://github.com/Veal98/Echo)
-
-**文档地址**：文档通过 <u>Docsify + Github/Gitee Pages</u> 生成
-
-- Gitee Pages：[https://veal98.gitee.io/echo](https://veal98.gitee.io/echo)
-- Github Pages：[https://veal98.github.io/Echo](https://veal98.github.io/Echo)
-
-## 📖 配套教程
-
-想要自己从零开始实现这个项目或者深入理解的小伙伴，可以扫描下方二维码关注公众号『**飞天小牛肉**』回复 `Echo` 免费获取配套教程。本套教程不仅会详细解释本项目涉及的各大技术点，还会汇总相关的常见面试题，目前尚在更新中。
-
-<img width="220px" src="https://gitee.com/veal98/images/raw/master/img/20210204145531.png"  />
-
-配套教程部分截图：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210930110659.png)
-
-
-
 ## 💻 核心技术栈
 
 后端：
