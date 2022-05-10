@@ -11,7 +11,7 @@ import java.util.Date;
  * 讨论贴
  * 对应数据库表 `discuss_post`
  */
-@Document(indexName = "discusspost", type = "_doc", shards = 6, replicas = 3)
+@Document(indexName = "discusspost")
 public class DiscussPost {
 
     @Id
